@@ -1,0 +1,1322 @@
+id,name,project,gender,race,vital_status,ethnicity,platform_unit_id,disease_type,sample_id,case_uuid,sample_type,platform,primary_site,age_at_diagnosis,sample_uuid,aliquot_id,library_id,reference_genome,study_uuid,case_id,days_to_death,experimental_strategy,quality_scale
+5a8f39184f0c9c9917305df5,7316-974.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-974,,,,,,,,,,,,,RNA-seq,
+5a8f39184f0c9c9917305def,7316-974.genes.results,cavatica/cbttc-workspace,,,,,,,7316-974,,,,,,,,,,,,,RNA-seq,
+5a8f34334f0c9c991730579b,7316-965.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305df1,7316-965.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-965,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305de3,7316-965.genes.results,cavatica/cbttc-workspace,,,,,,,7316-965,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c9917305722,7316-96.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055f8,7316-96.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305600,7316-96.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305ded,7316-96.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-96,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305df2,7316-96.genes.results,cavatica/cbttc-workspace,,,,,,,7316-96,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305852,7316-96-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305df7,7316-957.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-957,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305de9,7316-957.genes.results,cavatica/cbttc-workspace,,,,,,,7316-957,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305dd9,7316-956.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-956,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305deb,7316-956.genes.results,cavatica/cbttc-workspace,,,,,,,7316-956,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c9917305803,7316-954.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054f2,7316-954.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055a4,7316-954.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305ddb,7316-954.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-954,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305de5,7316-954.genes.results,cavatica/cbttc-workspace,,,,,,,7316-954,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305984,7316-954-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305de7,7316-944.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-944,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305de1,7316-944.genes.results,cavatica/cbttc-workspace,,,,,,,7316-944,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173057e5,7316-942.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305406,7316-942.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055cd,7316-942.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c9917305868,7316-942-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305ddd,7316-937.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-937,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305ddf,7316-937.genes.results,cavatica/cbttc-workspace,,,,,,,7316-937,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173057cb,7316-935.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053fe,7316-935.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730541e,7316-935.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305dcb,7316-935.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-935,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305dcf,7316-935.genes.results,cavatica/cbttc-workspace,,,,,,,7316-935,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730594f,7316-935-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c991730571e,7316-932.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305602,7316-932.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053fa,7316-932.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305dd5,7316-932.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-932,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305dcd,7316-932.genes.results,cavatica/cbttc-workspace,,,,,,,7316-932,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058c4,7316-932-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305837,7316-925.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305660,7316-925.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305460,7316-925.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305dc7,7316-925.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-925,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305dc9,7316-925.genes.results,cavatica/cbttc-workspace,,,,,,,7316-925,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305905,7316-925-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305dd7,7316-922.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-922,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305dc5,7316-922.genes.results,cavatica/cbttc-workspace,,,,,,,7316-922,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173057ad,7316-921.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305458,7316-921.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055aa,7316-921.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305dd3,7316-921.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-921,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305dd1,7316-921.genes.results,cavatica/cbttc-workspace,,,,,,,7316-921,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305937,7316-921-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173057c0,7316-92.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305656,7316-92.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305510,7316-92.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c9917305924,7316-92-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305ced,7316-918.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-918,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d4b,7316-918.genes.results,cavatica/cbttc-workspace,,,,,,,7316-918,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c991730583b,7316-915.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305430,7316-915.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730544e,7316-915.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305d7b,7316-915.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-915,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305da0,7316-915.genes.results,cavatica/cbttc-workspace,,,,,,,7316-915,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305940,7316-915-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173057c9,7316-914.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054b5,7316-914.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054d1,7316-914.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c991730593c,7316-914-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173057e7,7316-913.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730548c,7316-913.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055e7,7316-913.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305b23,7316-913.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-913,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d63,7316-913.genes.results,cavatica/cbttc-workspace,,,,,,,7316-913,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058b0,7316-913-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305715,7316-91.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055e0,7316-91.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305470,7316-91.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305abd,7316-91.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-91,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305ab7,7316-91.genes.results,cavatica/cbttc-workspace,,,,,,,7316-91,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058ab,7316-91-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305be3,7316-908.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-908,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b19,7316-908.genes.results,cavatica/cbttc-workspace,,,,,,,7316-908,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305cf5,7316-903.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-903,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d7c,7316-903.genes.results,cavatica/cbttc-workspace,,,,,,,7316-903,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173056d2,7316-9.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730541f,7316-9.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055da,7316-9.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305bb1,7316-9.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-9,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b6e,7316-9.genes.results,cavatica/cbttc-workspace,,,,,,,7316-9,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058de,7316-9-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305c2b,7316-897.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-897,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a2b,7316-897.genes.results,cavatica/cbttc-workspace,,,,,,,7316-897,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c9917305789,7316-895.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055d6,7316-895.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305571,7316-895.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c9917305855,7316-895-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305798,7316-894.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305604,7316-894.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305496,7316-894.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305d10,7316-894.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-894,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d3d,7316-894.genes.results,cavatica/cbttc-workspace,,,,,,,7316-894,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305996,7316-894-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173056b3,7316-89.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055f6,7316-89.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305650,7316-89.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305ba9,7316-89.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-89,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b37,7316-89.genes.results,cavatica/cbttc-workspace,,,,,,,7316-89,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305958,7316-89-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305797,7316-889.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305594,7316-889.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305658,7316-889.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305a09,7316-889.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-889,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d42,7316-889.genes.results,cavatica/cbttc-workspace,,,,,,,7316-889,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173059ae,7316-889-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173056ed,7316-880.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730543d,7316-880.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305478,7316-880.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c99173059e7,7316-880.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-880,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c11,7316-880.genes.results,cavatica/cbttc-workspace,,,,,,,7316-880,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305961,7316-880-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173056e1,7316-879.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305476,7316-879.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173056a6,7316-879.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305c4e,7316-879.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-879,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d79,7316-879.genes.results,cavatica/cbttc-workspace,,,,,,,7316-879,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305860,7316-879-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c99173059d1,7316-878.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-878,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d71,7316-878.genes.results,cavatica/cbttc-workspace,,,,,,,7316-878,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c991730581b,7316-877.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305509,7316-877.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730562a,7316-877.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305ad1,7316-877.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-877,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305ce3,7316-877.genes.results,cavatica/cbttc-workspace,,,,,,,7316-877,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058f2,7316-877-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305712,7316-873.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305436,7316-873.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053ca,7316-873.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305a5d,7316-873.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-873,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b09,7316-873.genes.results,cavatica/cbttc-workspace,,,,,,,7316-873,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730590a,7316-873-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173057fe,7316-872.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055b8,7316-872.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053ea,7316-872.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c991730598e,7316-872-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173057b8,7316-871.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730548a,7316-871.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305622,7316-871.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c9917305922,7316-871-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173057f3,7316-870.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730558b,7316-870.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053e0,7316-870.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c991730594b,7316-870-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c991730571d,7316-869.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305416,7316-869.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055dd,7316-869.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305cbf,7316-869.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-869,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d21,7316-869.genes.results,cavatica/cbttc-workspace,,,,,,,7316-869,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730584a,7316-869-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173057b0,7316-85.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305540,7316-85.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053e8,7316-85.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c9917305850,7316-85-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c99173059d4,7316-84.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-84,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d57,7316-84.genes.results,cavatica/cbttc-workspace,,,,,,,7316-84,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173056d9,7316-820.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305403,7316-820.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055e6,7316-820.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305aed,7316-820.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-820,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305ba3,7316-820.genes.results,cavatica/cbttc-workspace,,,,,,,7316-820,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305916,7316-820-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173056bd,7316-78.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305a73,7316-78.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-78,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a35,7316-78.genes.results,cavatica/cbttc-workspace,,,,,,,7316-78,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c9917305705,7316-77.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053be,7316-77.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305448,7316-77.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c9917305854,7316-77-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173056d5,7316-740.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053ce,7316-740.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305402,7316-740.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c991730598f,7316-740-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173056e6,7316-736.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173056aa,7316-736.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305498,7316-736.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c991730595d,7316-736-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c991730571a,7316-733.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730541a,7316-733.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055d0,7316-733.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305d03,7316-733.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-733,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b31,7316-733.genes.results,cavatica/cbttc-workspace,,,,,,,7316-733,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305858,7316-733-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305c17,7316-712.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-712,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d06,7316-712.genes.results,cavatica/cbttc-workspace,,,,,,,7316-712,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d1a,7316-711.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-711,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d33,7316-711.genes.results,cavatica/cbttc-workspace,,,,,,,7316-711,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c9917305812,7316-71.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054fa,7316-71.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730549a,7316-71.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c9917305952,7316-71-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305835,7316-70.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730565a,7316-70.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305608,7316-70.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c99173058ca,7316-70-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305c59,7316-692.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-692,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305bf5,7316-692.genes.results,cavatica/cbttc-workspace,,,,,,,7316-692,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173057f0,7316-659.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305542,7316-659.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305585,7316-659.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c9917305948,7316-659-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305af1,7316-658.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-658,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c61,7316-658.genes.results,cavatica/cbttc-workspace,,,,,,,7316-658,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b9f,7316-639.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-639,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b49,7316-639.genes.results,cavatica/cbttc-workspace,,,,,,,7316-639,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305bb7,7316-6.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-6,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d3b,7316-6.genes.results,cavatica/cbttc-workspace,,,,,,,7316-6,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c79,7316-556.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-556,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d8d,7316-556.genes.results,cavatica/cbttc-workspace,,,,,,,7316-556,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c99173059f9,7316-553.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-553,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d2f,7316-553.genes.results,cavatica/cbttc-workspace,,,,,,,7316-553,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d0a,7316-549.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-549,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305bd6,7316-549.genes.results,cavatica/cbttc-workspace,,,,,,,7316-549,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305bb9,7316-548.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-548,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b0e,7316-548.genes.results,cavatica/cbttc-workspace,,,,,,,7316-548,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c02,7316-547.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-547,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c69,7316-547.genes.results,cavatica/cbttc-workspace,,,,,,,7316-547,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a10,7316-544.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-544,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c65,7316-544.genes.results,cavatica/cbttc-workspace,,,,,,,7316-544,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173057b6,7316-535.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055ac,7316-535.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054b9,7316-535.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c99173059e4,7316-535.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-535,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d6b,7316-535.genes.results,cavatica/cbttc-workspace,,,,,,,7316-535,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305938,7316-535-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305a04,7316-525.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-525,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a57,7316-525.genes.results,cavatica/cbttc-workspace,,,,,,,7316-525,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c991730570d,7316-516.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305472,7316-516.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305438,7316-516.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305b9b,7316-516.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-516,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305bfb,7316-516.genes.results,cavatica/cbttc-workspace,,,,,,,7316-516,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305898,7316-516-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305b1f,7316-5.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-5,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c56,7316-5.genes.results,cavatica/cbttc-workspace,,,,,,,7316-5,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173056e2,7316-499.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305581,7316-499.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730546a,7316-499.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305acb,7316-499.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-499,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305ad3,7316-499.genes.results,cavatica/cbttc-workspace,,,,,,,7316-499,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305932,7316-499-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173056f6,7316-497.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305407,7316-497.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730563f,7316-497.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305b93,7316-497.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-497,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a67,7316-497.genes.results,cavatica/cbttc-workspace,,,,,,,7316-497,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305931,7316-497-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305726,7316-496.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730547e,7316-496.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730561a,7316-496.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c99173058f6,7316-496-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173057e1,7316-495.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305538,7316-495.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730560e,7316-495.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305c29,7316-495.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-495,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305adb,7316-495.genes.results,cavatica/cbttc-workspace,,,,,,,7316-495,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305971,7316-495-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c991730579c,7316-493.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053ba,7316-493.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305518,7316-493.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305bef,7316-493.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-493,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305beb,7316-493.genes.results,cavatica/cbttc-workspace,,,,,,,7316-493,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173059c0,7316-493-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305aa3,7316-490.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-490,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a1f,7316-490.genes.results,cavatica/cbttc-workspace,,,,,,,7316-490,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c8f,7316-489.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-489,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c99173059ec,7316-489.genes.results,cavatica/cbttc-workspace,,,,,,,7316-489,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173056d1,7316-488.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305a4b,7316-488.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-488,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b42,7316-488.genes.results,cavatica/cbttc-workspace,,,,,,,7316-488,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173057c7,7316-485.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055d2,7316-485.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054c7,7316-485.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305a23,7316-485.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-485,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c1f,7316-485.genes.results,cavatica/cbttc-workspace,,,,,,,7316-485,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305908,7316-485-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c991730583d,7316-474.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730547a,7316-474.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054ac,7316-474.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305bc7,7316-474.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-474,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305cb7,7316-474.genes.results,cavatica/cbttc-workspace,,,,,,,7316-474,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730592c,7316-474-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173056b7,7316-472.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730555a,7316-472.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053b4,7316-472.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c99173059d8,7316-472.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-472,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b25,7316-472.genes.results,cavatica/cbttc-workspace,,,,,,,7316-472,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173059bc,7316-472-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173057f4,7316-471.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730543a,7316-471.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053e4,7316-471.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305bb5,7316-471.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-471,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305cf9,7316-471.genes.results,cavatica/cbttc-workspace,,,,,,,7316-471,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058bd,7316-471-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173057b4,7316-470.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055fc,7316-470.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054d7,7316-470.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305ce9,7316-470.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-470,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c26,7316-470.genes.results,cavatica/cbttc-workspace,,,,,,,7316-470,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305929,7316-470-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173057be,7316-47.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053e6,7316-47.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305449,7316-47.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305d5b,7316-47.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-47,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c99173059f2,7316-47.genes.results,cavatica/cbttc-workspace,,,,,,,7316-47,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305998,7316-47-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173056da,7316-466.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054f7,7316-466.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730543c,7316-466.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c99173058fe,7316-466-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173057a1,7316-464.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054e7,7316-464.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305508,7316-464.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c9917305894,7316-464-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173056cd,7316-460.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055d4,7316-460.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730560c,7316-460.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305d15,7316-460.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-460,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c33,7316-460.genes.results,cavatica/cbttc-workspace,,,,,,,7316-460,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730599a,7316-460-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173056c9,7316-459.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055ae,7316-459.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305616,7316-459.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305ce4,7316-459.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-459,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305bc1,7316-459.genes.results,cavatica/cbttc-workspace,,,,,,,7316-459,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058fc,7316-459-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c991730582c,7316-458.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054b8,7316-458.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730540e,7316-458.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305ba7,7316-458.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-458,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c05,7316-458.genes.results,cavatica/cbttc-workspace,,,,,,,7316-458,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730589c,7316-458-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c991730576d,7316-456.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305490,7316-456.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054b2,7316-456.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305b4b,7316-456.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-456,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c92,7316-456.genes.results,cavatica/cbttc-workspace,,,,,,,7316-456,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305988,7316-456-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c991730581f,7316-452.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305474,7316-452.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305441,7316-452.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305c99,7316-452.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-452,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d39,7316-452.genes.results,cavatica/cbttc-workspace,,,,,,,7316-452,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730584e,7316-452-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305d5d,7316-451.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-451,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305aca,7316-451.genes.results,cavatica/cbttc-workspace,,,,,,,7316-451,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c9917305716,7316-449.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730554c,7316-449.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730566c,7316-449.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305a3b,7316-449.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-449,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a15,7316-449.genes.results,cavatica/cbttc-workspace,,,,,,,7316-449,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305994,7316-449-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305730,7316-448.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055ca,7316-448.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305672,7316-448.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305bc3,7316-448.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-448,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305ae1,7316-448.genes.results,cavatica/cbttc-workspace,,,,,,,7316-448,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305966,7316-448-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173057a6,7316-445.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730542b,7316-445.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305423,7316-445.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c9917305946,7316-445-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c991730580e,7316-443.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054ad,7316-443.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305628,7316-443.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c9917305900,7316-443-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305d17,7316-442.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-442,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305bd5,7316-442.genes.results,cavatica/cbttc-workspace,,,,,,,7316-442,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c9917305749,7316-436.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054f3,7316-436.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305444,7316-436.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305ce0,7316-436.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-436,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305cb5,7316-436.genes.results,cavatica/cbttc-workspace,,,,,,,7316-436,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305985,7316-436-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173056f2,7316-431.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730540f,7316-431.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730549e,7316-431.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c99173059c7,7316-431.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-431,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c9f,7316-431.genes.results,cavatica/cbttc-workspace,,,,,,,7316-431,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730592d,7316-431-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305702,7316-429.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054ec,7316-429.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053f4,7316-429.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305aee,7316-429.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-429,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d00,7316-429.genes.results,cavatica/cbttc-workspace,,,,,,,7316-429,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730590b,7316-429-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173057a0,7316-423.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305694,7316-423.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305544,7316-423.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c991730584c,7316-423-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305743,7316-42.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053f2,7316-42.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730557d,7316-42.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305c5d,7316-42.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-42,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b03,7316-42.genes.results,cavatica/cbttc-workspace,,,,,,,7316-42,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305904,7316-42-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305c1d,7316-41.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-41,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d4f,7316-41.genes.results,cavatica/cbttc-workspace,,,,,,,7316-41,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c9917305795,7316-409.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054ef,7316-409.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305511,7316-409.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c9917305899,7316-409-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173056de,7316-406.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055c6,7316-406.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305589,7316-406.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305c0e,7316-406.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-406,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c6e,7316-406.genes.results,cavatica/cbttc-workspace,,,,,,,7316-406,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730596d,7316-406-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c991730578d,7316-398.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730549b,7316-398.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054de,7316-398.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305bcf,7316-398.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-398,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b85,7316-398.genes.results,cavatica/cbttc-workspace,,,,,,,7316-398,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305980,7316-398-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c991730580a,7316-394.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305d6d,7316-394.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-394,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c41,7316-394.genes.results,cavatica/cbttc-workspace,,,,,,,7316-394,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173057f9,7316-391.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730545a,7316-391.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053d2,7316-391.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305ae3,7316-391.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-391,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a52,7316-391.genes.results,cavatica/cbttc-workspace,,,,,,,7316-391,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305977,7316-391-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305821,7316-388.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305587,7316-388.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305626,7316-388.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c991730590f,7316-388-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305c51,7316-386.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-386,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d95,7316-386.genes.results,cavatica/cbttc-workspace,,,,,,,7316-386,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173057d1,7316-384.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054c5,7316-384.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054f6,7316-384.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305db5,7316-384.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-384,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305cf0,7316-384.genes.results,cavatica/cbttc-workspace,,,,,,,7316-384,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305982,7316-384-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305a54,7316-380.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-380,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c99173059cf,7316-380.genes.results,cavatica/cbttc-workspace,,,,,,,7316-380,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305daf,7316-38.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-38,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d09,7316-38.genes.results,cavatica/cbttc-workspace,,,,,,,7316-38,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305bab,7316-376.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-376,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305cc1,7316-376.genes.results,cavatica/cbttc-workspace,,,,,,,7316-376,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173057dc,7316-37.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054a1,7316-37.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730566e,7316-37.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305cf6,7316-37.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-37,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305ae4,7316-37.genes.results,cavatica/cbttc-workspace,,,,,,,7316-37,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173059a9,7316-37-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305811,7316-368.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305515,7316-368.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305647,7316-368.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c99173059a2,7316-368-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305786,7316-367.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055ec,7316-367.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305530,7316-367.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305d05,7316-367.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-367,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d6f,7316-367.genes.results,cavatica/cbttc-workspace,,,,,,,7316-367,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173059ba,7316-367-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305815,7316-364.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730561c,7316-364.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054d0,7316-364.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c9917305917,7316-364-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305da4,7316-362.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-362,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c67,7316-362.genes.results,cavatica/cbttc-workspace,,,,,,,7316-362,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d23,7316-358.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-358,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305ab3,7316-358.genes.results,cavatica/cbttc-workspace,,,,,,,7316-358,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173056c5,7316-356.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730546c,7316-356.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730545e,7316-356.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c991730596a,7316-356-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305c6a,7316-3550.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-3550,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c4a,7316-3550.genes.results,cavatica/cbttc-workspace,,,,,,,7316-3550,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305ae9,7316-3549.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-3549,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305cad,7316-3549.genes.results,cavatica/cbttc-workspace,,,,,,,7316-3549,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d61,7316-3548.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-3548,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305be7,7316-3548.genes.results,cavatica/cbttc-workspace,,,,,,,7316-3548,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d29,7316-3547.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-3547,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a13,7316-3547.genes.results,cavatica/cbttc-workspace,,,,,,,7316-3547,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b13,7316-3546.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-3546,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d99,7316-3546.genes.results,cavatica/cbttc-workspace,,,,,,,7316-3546,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d26,7316-3545.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-3545,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c99173059cc,7316-3545.genes.results,cavatica/cbttc-workspace,,,,,,,7316-3545,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305ac5,7316-3544.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-3544,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b0d,7316-3544.genes.results,cavatica/cbttc-workspace,,,,,,,7316-3544,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c0b,7316-3543.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-3543,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d87,7316-3543.genes.results,cavatica/cbttc-workspace,,,,,,,7316-3543,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c91,7316-3542.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-3542,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305cdd,7316-3542.genes.results,cavatica/cbttc-workspace,,,,,,,7316-3542,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c2f,7316-3541.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-3541,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305bd1,7316-3541.genes.results,cavatica/cbttc-workspace,,,,,,,7316-3541,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c6d,7316-3540.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-3540,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d67,7316-3540.genes.results,cavatica/cbttc-workspace,,,,,,,7316-3540,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b15,7316-3538.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-3538,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305bd3,7316-3538.genes.results,cavatica/cbttc-workspace,,,,,,,7316-3538,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305bed,7316-347.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-347,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d5f,7316-347.genes.results,cavatica/cbttc-workspace,,,,,,,7316-347,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305cb3,7316-345.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-345,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a77,7316-345.genes.results,cavatica/cbttc-workspace,,,,,,,7316-345,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173056bb,7316-341.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054d6,7316-341.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305546,7316-341.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305c09,7316-341.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-341,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305ce7,7316-341.genes.results,cavatica/cbttc-workspace,,,,,,,7316-341,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730594a,7316-341-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305755,7316-340.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730551e,7316-340.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305558,7316-340.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305ba1,7316-340.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-340,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b5b,7316-340.genes.results,cavatica/cbttc-workspace,,,,,,,7316-340,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058c1,7316-340-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173056b5,7316-339.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305417,7316-339.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054a0,7316-339.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305b2b,7316-339.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-339,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b01,7316-339.genes.results,cavatica/cbttc-workspace,,,,,,,7316-339,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305870,7316-339-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c991730570e,7316-334.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305b21,7316-332.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-332,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d9d,7316-332.genes.results,cavatica/cbttc-workspace,,,,,,,7316-332,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173057a7,7316-325.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305466,7316-325.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055b4,7316-325.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305d85,7316-325.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-325,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b7f,7316-325.genes.results,cavatica/cbttc-workspace,,,,,,,7316-325,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305930,7316-325-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305d1d,7316-3243.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-3243,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305dc1,7316-3243.genes.results,cavatica/cbttc-workspace,,,,,,,7316-3243,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c3c,7316-3242.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-3242,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a81,7316-3242.genes.results,cavatica/cbttc-workspace,,,,,,,7316-3242,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305db9,7316-3241.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-3241,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a34,7316-3241.genes.results,cavatica/cbttc-workspace,,,,,,,7316-3241,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f72414f0c9c9917305e12,7316-3224-556461-DNA-Tumor.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f72424f0c9c9917305e15,7316-3221-556456-DNA-Tumor.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f72424f0c9c9917305e18,7316-3220-556455-DNA-Tumor.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305806,7316-322.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305452,7316-322.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053e1,7316-322.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305d2a,7316-322.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-322,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305db1,7316-322.genes.results,cavatica/cbttc-workspace,,,,,,,7316-322,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058b4,7316-322-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f72424f0c9c9917305e1b,7316-3219-556454-DNA-Tumor.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f72434f0c9c9917305e1e,7316-3218-556453-DNA-Tumor.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305c45,7316-315.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-315,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305cfc,7316-315.genes.results,cavatica/cbttc-workspace,,,,,,,7316-315,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173056fd,7316-314.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054ff,7316-314.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054e4,7316-314.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305a9a,7316-314.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-314,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d75,7316-314.genes.results,cavatica/cbttc-workspace,,,,,,,7316-314,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305964,7316-314-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305819,7316-313.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305502,7316-313.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730568a,7316-313.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305d0f,7316-313.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-313,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a1a,7316-313.genes.results,cavatica/cbttc-workspace,,,,,,,7316-313,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058f8,7316-313-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305d8e,7316-310.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-310,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305baf,7316-310.genes.results,cavatica/cbttc-workspace,,,,,,,7316-310,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b88,7316-309.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-309,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305caf,7316-309.genes.results,cavatica/cbttc-workspace,,,,,,,7316-309,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305aab,7316-307.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-307,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a6e,7316-307.genes.results,cavatica/cbttc-workspace,,,,,,,7316-307,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305da8,7316-304.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-304,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305bcd,7316-304.genes.results,cavatica/cbttc-workspace,,,,,,,7316-304,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c991730583f,7316-30.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173056a4,7316-30.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730553b,7316-30.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c99173059db,7316-30.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-30,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b60,7316-30.genes.results,cavatica/cbttc-workspace,,,,,,,7316-30,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730587b,7316-30-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173056b9,7316-3.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054c0,7316-3.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053ec,7316-3.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c99173058ef,7316-3-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305c9a,7316-297.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-297,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305acf,7316-297.genes.results,cavatica/cbttc-workspace,,,,,,,7316-297,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173056d6,7316-292.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305670,7316-292.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305426,7316-292.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c991730593e,7316-292-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173056c1,7316-29.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305468,7316-29.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305503,7316-29.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305ba5,7316-29.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-29,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305be5,7316-29.genes.results,cavatica/cbttc-workspace,,,,,,,7316-29,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058fa,7316-29-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305d89,7316-280.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-280,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305add,7316-280.genes.results,cavatica/cbttc-workspace,,,,,,,7316-280,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173056cb,7316-2680.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305462,7316-2680.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305630,7316-2680.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305d1e,7316-2680.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2680,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a5b,7316-2680.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2680,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173059b0,7316-2680-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173057fd,7316-2671.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053c4,7316-2671.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053ae,7316-2671.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305cdb,7316-2671.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2671,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b1c,7316-2671.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2671,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173059a6,7316-2671-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173056f5,7316-267.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054c2,7316-267.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305556,7316-267.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c991730598c,7316-267-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c991730574b,7316-2668.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305634,7316-2668.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305550,7316-2668.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305d9b,7316-2668.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2668,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a43,7316-2668.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2668,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730597a,7316-2668-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305c97,7316-2667.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2667,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c73,7316-2667.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2667,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173056c3,7316-2660.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730562c,7316-2660.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730541b,7316-2660.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305d7f,7316-2660.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2660,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305bdd,7316-2660.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2660,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730585c,7316-2660-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173056ce,7316-2652.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305612,7316-2652.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305690,7316-2652.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305d35,7316-2652.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2652,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305be1,7316-2652.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2652,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730590e,7316-2652-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305d81,7316-265.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-265,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d54,7316-265.genes.results,cavatica/cbttc-workspace,,,,,,,7316-265,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305da7,7316-2648.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2648,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c0d,7316-2648.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2648,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b06,7316-2640.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2640,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a47,7316-2640.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2640,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173057e3,7316-264.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053f6,7316-264.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305547,7316-264.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305cd7,7316-264.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-264,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c5f,7316-264.genes.results,cavatica/cbttc-workspace,,,,,,,7316-264,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730599e,7316-264-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173057b2,7316-2610.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305686,7316-2610.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305456,7316-2610.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305b79,7316-2610.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2610,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305dbb,7316-2610.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2610,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305862,7316-2610-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173056e5,7316-2609.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305440,7316-2609.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053b8,7316-2609.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305dad,7316-2609.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2609,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d36,7316-2609.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2609,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305936,7316-2609-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305b4f,7316-2594.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2594,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b53,7316-2594.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2594,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b51,7316-2583.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2583,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305cfb,7316-2583.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2583,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c9917305805,7316-2582.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730548d,7316-2582.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730568c,7316-2582.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305d83,7316-2582.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2582,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305da3,7316-2582.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2582,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305920,7316-2582-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c991730579a,7316-2581.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053d0,7316-2581.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305534,7316-2581.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305d94,7316-2581.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2581,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c62,7316-2581.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2581,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305872,7316-2581-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305823,7316-2567.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055a1,7316-2567.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054dc,7316-2567.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305dab,7316-2567.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2567,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305cc5,7316-2567.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2567,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730591e,7316-2567-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305b29,7316-2561.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2561,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305dbd,7316-2561.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2561,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173057c4,7316-2554.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054ca,7316-2554.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054bc,7316-2554.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305a0f,7316-2554.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2554,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d9f,7316-2554.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2554,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173059be,7316-2554-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305cc9,7316-2536.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2536,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a27,7316-2536.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2536,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a7e,7316-249.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-249,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a4d,7316-249.genes.results,cavatica/cbttc-workspace,,,,,,,7316-249,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173057ba,7316-24.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305432,7316-24.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730567e,7316-24.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305ac0,7316-24.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-24,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305cb1,7316-24.genes.results,cavatica/cbttc-workspace,,,,,,,7316-24,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730594d,7316-24-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305809,7316-235.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305674,7316-235.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730563c,7316-235.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305d91,7316-235.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-235,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c95,7316-235.genes.results,cavatica/cbttc-workspace,,,,,,,7316-235,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305956,7316-235-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305ca7,7316-2322.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2322,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b35,7316-2322.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2322,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d3f,7316-231.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-231,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d73,7316-231.genes.results,cavatica/cbttc-workspace,,,,,,,7316-231,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173057cc,7316-2309.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053da,7316-2309.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053bc,7316-2309.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305a89,7316-2309.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2309,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305ca3,7316-2309.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2309,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058ae,7316-2309-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305790,7316-2300.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730569e,7316-2300.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305652,7316-2300.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c99173058a2,7316-2300-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305d59,7316-2288.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2288,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c99173059ef,7316-2288.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2288,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c9917305817,7316-2252.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173056a2,7316-2252.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055b0,7316-2252.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305abf,7316-2252.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2252,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c99173059f5,7316-2252.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2252,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305869,7316-2252-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305829,7316-2251.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173056ac,7316-2251.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305632,7316-2251.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305d41,7316-2251.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2251,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d48,7316-2251.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2251,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305885,7316-2251-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305793,7316-2250.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054cb,7316-2250.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054ee,7316-2250.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305ad5,7316-2250.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2250,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d4c,7316-2250.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2250,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058a7,7316-2250-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c991730580d,7316-2249.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055f3,7316-2249.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053f0,7316-2249.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305a29,7316-2249.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2249,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c22,7316-2249.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2249,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730586c,7316-2249-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305a85,7316-2245.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2245,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b97,7316-2245.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2245,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a03,7316-2244.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2244,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b91,7316-2244.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2244,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a5f,7316-2241.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2241,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a25,7316-2241.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2241,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c9917305721,7316-2230.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305506,7316-2230.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054da,7316-2230.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305b7b,7316-2230.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2230,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a5e,7316-2230.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2230,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730586e,7316-2230-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c991730577d,7316-2227.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730564a,7316-2227.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305529,7316-2227.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305afb,7316-2227.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2227,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a79,7316-2227.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2227,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058a4,7316-2227-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173057e9,7316-2224.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305570,7316-2224.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730558d,7316-2224.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305c37,7316-2224.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2224,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305cbd,7316-2224.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2224,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305866,7316-2224-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305783,7316-222.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305574,7316-222.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305644,7316-222.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305ca5,7316-222.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-222,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c52,7316-222.genes.results,cavatica/cbttc-workspace,,,,,,,7316-222,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305884,7316-222-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c991730577b,7316-221.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305552,7316-221.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305564,7316-221.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305cf3,7316-221.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-221,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305bcb,7316-221.genes.results,cavatica/cbttc-workspace,,,,,,,7316-221,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305895,7316-221-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305d51,7316-220.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-220,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d31,7316-220.genes.results,cavatica/cbttc-workspace,,,,,,,7316-220,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a74,7316-22.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-22,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305ccd,7316-22.genes.results,cavatica/cbttc-workspace,,,,,,,7316-22,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a33,7316-2195.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2195,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305aff,7316-2195.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2195,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d18,7316-2184.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2184,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305bdb,7316-2184.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2184,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173057fb,7316-2183.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730565c,7316-2183.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730566a,7316-2183.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305c42,7316-2183.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2183,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305aa7,7316-2183.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2183,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305928,7316-2183-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305a82,7316-2178.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2178,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305bbf,7316-2178.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2178,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173057df,7316-2177.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730542a,7316-2177.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305684,7316-2177.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305a42,7316-2177.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2177,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a8d,7316-2177.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2177,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730585d,7316-2177-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305825,7316-2176.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305591,7316-2176.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055c4,7316-2176.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c991730591a,7316-2176-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305b11,7316-2172.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2172,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305cd6,7316-2172.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2172,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c991730582b,7316-2171.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305445,7316-2171.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054c3,7316-2171.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305b3a,7316-2171.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2171,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a16,7316-2171.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2171,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305967,7316-2171-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173057d9,7316-217.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305514,7316-217.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730540a,7316-217.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c9917305972,7316-217-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305779,7316-2169.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055c8,7316-2169.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055be,7316-2169.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305ab1,7316-2169.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2169,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c87,7316-2169.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2169,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305888,7316-2169-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173056ea,7316-2167.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305681,7316-2167.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730556c,7316-2167.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305ad9,7316-2167.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2167,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d12,7316-2167.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2167,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730585a,7316-2167-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305cd2,7316-2159.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2159,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a39,7316-2159.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2159,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c9917305701,7316-2155.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305698,7316-2155.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305688,7316-2155.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305a7d,7316-2155.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2155,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c01,7316-2155.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2155,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730597c,7316-2155-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173057db,7316-2154.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305680,7316-2154.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055ee,7316-2154.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c99173059fa,7316-2154.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2154,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305be9,7316-2154.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2154,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730595a,7316-2154-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c99173059ff,7316-2153.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2153,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c9d,7316-2153.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2153,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173056fa,7316-2152.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305598,7316-2152.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054a2,7316-2152.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305b8d,7316-2152.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2152,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c80,7316-2152.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2152,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730587d,7316-2152-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c991730572a,7316-2150.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305568,7316-2150.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305494,7316-2150.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305aa5,7316-2150.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2150,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a2a,7316-2150.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2150,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305944,7316-2150-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305757,7316-215.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053c6,7316-215.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305528,7316-215.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305ceb,7316-215.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-215,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b39,7316-215.genes.results,cavatica/cbttc-workspace,,,,,,,7316-215,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305912,7316-215-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305745,7316-2148.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054e1,7316-2148.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305636,7316-2148.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305b3d,7316-2148.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2148,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b2d,7316-2148.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2148,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305891,7316-2148-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c99173059e1,7316-2146.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2146,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c99173059c5,7316-2146.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2146,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b5f,7316-2141.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2141,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c7c,7316-2141.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2141,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173056ee,7316-2140.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053b0,7316-2140.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305678,7316-2140.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c991730595c,7316-2140-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305768,7316-2139.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730552c,7316-2139.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305610,7316-2139.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305a69,7316-2139.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2139,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c49,7316-2139.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2139,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305914,7316-2139-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173057c2,7316-2135.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054a6,7316-2135.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730547f,7316-2135.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305b83,7316-2135.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2135,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a9f,7316-2135.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2135,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305882,7316-2135-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305833,7316-212.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055b2,7316-212.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730555e,7316-212.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c99173058c8,7316-212-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c991730573f,7316-2107.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173056a8,7316-2107.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054ea,7316-2107.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305a97,7316-2107.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2107,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305ae7,7316-2107.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2107,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730597d,7316-2107-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305b5c,7316-2100.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2100,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c75,7316-2100.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2100,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305bbb,7316-2091.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2091,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c89,7316-2091.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2091,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c9917305736,7316-2085.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730551f,7316-2085.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055cc,7316-2085.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c99173059dd,7316-2085.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2085,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b9d,7316-2085.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2085,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173059a4,7316-2085-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305741,7316-207.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305412,7316-207.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730553a,7316-207.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305ac9,7316-207.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-207,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b63,7316-207.genes.results,cavatica/cbttc-workspace,,,,,,,7316-207,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305926,7316-207-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305735,7316-2069.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053b6,7316-2069.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730563e,7316-2069.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305a65,7316-2069.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2069,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305ab9,7316-2069.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2069,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305846,7316-2069-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173056f1,7316-206.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055ba,7316-206.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730561e,7316-206.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305a3c,7316-206.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-206,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a3f,7316-206.genes.results,cavatica/cbttc-workspace,,,,,,,7316-206,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730588c,7316-206-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305a20,7316-205.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-205,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d25,7316-205.genes.results,cavatica/cbttc-workspace,,,,,,,7316-205,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173057eb,7316-204.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054bd,7316-204.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053f8,7316-204.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c991730596c,7316-204-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305771,7316-202.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305427,7316-202.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305464,7316-202.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c9917305844,7316-202-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c991730572d,7316-2005.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305400,7316-2005.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173056b0,7316-2005.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305b71,7316-2005.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-2005,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305aad,7316-2005.genes.results,cavatica/cbttc-workspace,,,,,,,7316-2005,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305864,7316-2005-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c991730581d,7316-20.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055c0,7316-20.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730554e,7316-20.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305a9d,7316-20.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-20,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305dc3,7316-20.genes.results,cavatica/cbttc-workspace,,,,,,,7316-20,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058c0,7316-20-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305765,7316-1987.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305607,7316-1987.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730557b,7316-1987.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305a1b,7316-1987.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1987,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c5a,7316-1987.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1987,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058cd,7316-1987-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173057ac,7316-1985.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305662,7316-1985.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305692,7316-1985.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305cca,7316-1985.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1985,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c99173059fe,7316-1985.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1985,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173059a8,7316-1985-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c991730572f,7316-1983.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055db,7316-1983.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305565,7316-1983.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305bb3,7316-1983.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1983,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c83,7316-1983.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1983,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305889,7316-1983-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305d47,7316-198.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-198,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a91,7316-198.genes.results,cavatica/cbttc-workspace,,,,,,,7316-198,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173057d7,7316-197.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305488,7316-197.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730562e,7316-197.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305b3f,7316-197.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-197,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c7b,7316-197.genes.results,cavatica/cbttc-workspace,,,,,,,7316-197,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173059b6,7316-197-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173057bb,7316-1969.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055fe,7316-1969.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054b4,7316-1969.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305cce,7316-1969.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1969,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a92,7316-1969.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1969,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730589d,7316-1969-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305784,7316-1961.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730547c,7316-1961.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305666,7316-1961.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305c46,7316-1961.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1961,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b8b,7316-1961.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1961,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058ea,7316-1961-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c991730582f,7316-1957.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730559a,7316-1957.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305676,7316-1957.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305d45,7316-1957.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1957,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c99173059ea,7316-1957.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1957,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305878,7316-1957-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173057ef,7316-1956.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305618,7316-1956.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305434,7316-1956.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305af9,7316-1956.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1956,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a48,7316-1956.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1956,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058b2,7316-1956-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173057ec,7316-1952.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055f0,7316-1952.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053cc,7316-1952.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305ac7,7316-1952.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1952,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305af4,7316-1952.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1952,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305880,7316-1952-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c991730577e,7316-195.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730544c,7316-195.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730567c,7316-195.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c99173059c9,7316-195.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-195,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c99173059d7,7316-195.genes.results,cavatica/cbttc-workspace,,,,,,,7316-195,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058e4,7316-195-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305831,7316-1948.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305638,7316-1948.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053c2,7316-1948.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305b41,7316-1948.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1948,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305bf7,7316-1948.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1948,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058e8,7316-1948-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305d65,7316-1945.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1945,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a19,7316-1945.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1945,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c991730578b,7316-194.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055f2,7316-194.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730545c,7316-194.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c99173058aa,7316-194-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c991730575c,7316-1927.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730555c,7316-1927.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305453,7316-1927.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305a41,7316-1927.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1927,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a87,7316-1927.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1927,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058d4,7316-1927-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305bad,7316-1926.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1926,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a6f,7316-1926.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1926,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c991730573b,7316-189.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055c2,7316-189.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055d8,7316-189.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c99173058ec,7316-189-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305a8b,7316-1889.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1889,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305ca1,7316-1889.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1889,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c991730574c,7316-1888.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730551c,7316-1888.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305579,7316-1888.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305cb8,7316-1888.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1888,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305cef,7316-1888.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1888,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730599f,7316-1888-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c991730574f,7316-188.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730569a,7316-188.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730552d,7316-188.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305afc,7316-188.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-188,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c99173059cb,7316-188.genes.results,cavatica/cbttc-workspace,,,,,,,7316-188,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058da,7316-188-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305b0b,7316-186.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-186,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b77,7316-186.genes.results,cavatica/cbttc-workspace,,,,,,,7316-186,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c9917305827,7316-185.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730558e,7316-185.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055bc,7316-185.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c9917305976,7316-185-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305ca8,7316-1845.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1845,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b99,7316-1845.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1845,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c991730578e,7316-1808.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305524,7316-1808.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305614,7316-1808.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305aeb,7316-1808.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1808,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b55,7316-1808.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1808,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058a6,7316-1808-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305733,7316-1806.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305413,7316-1806.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730569c,7316-1806.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c991730587a,7316-1806-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305b05,7316-1801.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1801,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305bf9,7316-1801.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1801,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c9917305725,7316-1799.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305668,7316-1799.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173056ae,7316-1799.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c9917305874,7316-1799-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305751,7316-1792.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055a8,7316-1792.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055b6,7316-1792.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305cc3,7316-1792.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1792,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305bd9,7316-1792.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1792,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730599b,7316-1792-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305a31,7316-1790.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1790,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c99173059f0,7316-1790.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1790,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c9917305753,7316-1782.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305583,7316-1782.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054df,7316-1782.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305b17,7316-1782.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1782,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c31,7316-1782.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1782,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730595f,7316-1782-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305d2d,7316-1781.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1781,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305cab,7316-1781.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1781,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c99173059fd,7316-1778.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1778,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a0c,7316-1778.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1778,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c9917305729,7316-1775.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305522,7316-1775.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305491,7316-1775.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305a4c,7316-1775.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1775,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305aa1,7316-1775.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1775,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173059b4,7316-1775-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305c1b,7316-1774.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1774,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305bf3,7316-1774.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1774,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c99173059de,7316-1771.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1771,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d0d,7316-1771.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1771,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173057aa,7316-1763.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305519,7316-1763.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305624,7316-1763.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305bbd,7316-1763.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1763,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b1b,7316-1763.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1763,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058c6,7316-1763-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305abb,7316-176.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-176,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c99173059f6,7316-176.genes.results,cavatica/cbttc-workspace,,,,,,,7316-176,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c9917305706,7316-175.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305422,7316-175.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053d8,7316-175.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305a58,7316-175.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-175,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b33,7316-175.genes.results,cavatica/cbttc-workspace,,,,,,,7316-175,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058dc,7316-175-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173057d5,7316-1748.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053dc,7316-1748.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730559e,7316-1748.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305b57,7316-1748.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1748,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a63,7316-1748.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1748,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058ee,7316-1748-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305a98,7316-1746.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1746,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305ac3,7316-1746.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1746,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b6d,7316-1745.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1745,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c2d,7316-1745.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1745,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173057cd,7316-174.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730550d,7316-174.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055a0,7316-174.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c9917305970,7316-174-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173056c7,7316-173.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730553e,7316-173.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730540b,7316-173.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305c71,7316-173.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-173,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305af7,7316-173.genes.results,cavatica/cbttc-workspace,,,,,,,7316-173,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058d6,7316-173-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305777,7316-172.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305590,7316-172.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305596,7316-172.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305bc5,7316-172.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-172,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305af3,7316-172.genes.results,cavatica/cbttc-workspace,,,,,,,7316-172,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305842,7316-172-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173057f7,7316-171.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054ce,7316-171.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053fc,7316-171.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305c84,7316-171.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-171,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c21,7316-171.genes.results,cavatica/cbttc-workspace,,,,,,,7316-171,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305992,7316-171-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c991730573c,7316-1708.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055e2,7316-1708.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730567a,7316-1708.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c99173058df,7316-1708-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305767,7316-1704.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054a7,7316-1704.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305620,7316-1704.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c99173059d3,7316-1704.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1704,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a7b,7316-1704.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1704,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305902,7316-1704-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c991730576b,7316-1700.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305486,7316-1700.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055e3,7316-1700.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305d93,7316-1700.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1700,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a95,7316-1700.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1700,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305890,7316-1700-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305758,7316-168.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730544f,7316-168.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055a6,7316-168.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305db3,7316-168.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-168,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c99173059e9,7316-168.genes.results,cavatica/cbttc-workspace,,,,,,,7316-168,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730591b,7316-168-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305bc9,7316-166.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-166,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a6d,7316-166.genes.results,cavatica/cbttc-workspace,,,,,,,7316-166,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c991730576f,7316-1654.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730564e,7316-1654.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730542e,7316-1654.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305c25,7316-1654.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1654,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a0b,7316-1654.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1654,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058bc,7316-1654-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c991730575f,7316-162.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053c8,7316-162.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730546e,7316-162.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305cc4,7316-162.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-162,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b95,7316-162.genes.results,cavatica/cbttc-workspace,,,,,,,7316-162,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058ba,7316-162-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305761,7316-161.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305696,7316-161.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305531,7316-161.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c991730588d,7316-161-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305763,7316-160.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053de,7316-160.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173056a0,7316-160.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305c4d,7316-160.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-160,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d77,7316-160.genes.results,cavatica/cbttc-workspace,,,,,,,7316-160,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058e6,7316-160-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305b7d,7316-153.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-153,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b27,7316-153.genes.results,cavatica/cbttc-workspace,,,,,,,7316-153,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c9917305781,7316-148.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054d2,7316-148.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730563a,7316-148.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305d8a,7316-148.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-148,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c19,7316-148.genes.results,cavatica/cbttc-workspace,,,,,,,7316-148,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058b8,7316-148-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305711,7316-147.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305535,7316-147.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055ea,7316-147.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305dbf,7316-147.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-147,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305bf1,7316-147.genes.results,cavatica/cbttc-workspace,,,,,,,7316-147,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058f4,7316-147-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305773,7316-1463.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053c0,7316-1463.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054fe,7316-1463.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305bff,7316-1463.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1463,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305ad6,7316-1463.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1463,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058cc,7316-1463-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173056e9,7316-134.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730568e,7316-134.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730554a,7316-134.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305c8b,7316-134.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-134,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d69,7316-134.genes.results,cavatica/cbttc-workspace,,,,,,,7316-134,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058d0,7316-134-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173057a4,7316-130.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730564c,7316-130.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053b2,7316-130.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c991730589e,7316-130-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305a8e,7316-128.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-128,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305db6,7316-128.genes.results,cavatica/cbttc-workspace,,,,,,,7316-128,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c9917305709,7316-126.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054af,7316-126.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305554,7316-126.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c9917305848,7316-126-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305cd5,7316-124.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-124,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c77,7316-124.genes.results,cavatica/cbttc-workspace,,,,,,,7316-124,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c7f,7316-122.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-122,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305cd1,7316-122.genes.results,cavatica/cbttc-workspace,,,,,,,7316-122,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a07,7316-121.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-121,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b2e,7316-121.genes.results,cavatica/cbttc-workspace,,,,,,,7316-121,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305bdf,7316-120.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-120,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305cdf,7316-120.genes.results,cavatica/cbttc-workspace,,,,,,,7316-120,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b4d,7316-119.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-119,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305d53,7316-119.genes.results,cavatica/cbttc-workspace,,,,,,,7316-119,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c99173059e2,7316-1187.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1187,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b87,7316-1187.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1187,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c991730575b,7316-117.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305646,7316-117.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730550c,7316-117.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305a51,7316-117.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-117,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305cff,7316-117.genes.results,cavatica/cbttc-workspace,,,,,,,7316-117,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058e2,7316-117-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305801,7316-114.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053ed,7316-114.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305525,7316-114.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305b6b,7316-114.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-114,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c8c,7316-114.genes.results,cavatica/cbttc-workspace,,,,,,,7316-114,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c9917305953,7316-114-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173056fe,7316-1118.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305561,7316-1118.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305641,7316-1118.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c9917305989,7316-1118-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305774,7316-1116.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054a9,7316-1116.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730556d,7316-1116.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c9917305876,7316-1116-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173056dd,7316-1113.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305577,7316-1113.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305575,7316-1113.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305a2f,7316-1113.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1113,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305aae,7316-1113.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1113,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173058d8,7316-1113-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173056bf,7316-1112.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730559c,7316-1112.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173055f9,7316-1112.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c99173059b8,7316-1112-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305719,7316-1110.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730565d,7316-1110.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c991730557f,7316-1110.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305b8f,7316-1110.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1110,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305aa9,7316-1110.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1110,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c991730593f,7316-1110-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305b69,7316-1109.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1109,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c13,7316-1109.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1109,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c9917305739,7316-1106.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053d4,7316-1106.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054e5,7316-1106.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305adf,7316-1106.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1106,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c07,7316-1106.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1106,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34994f0c9c99173059aa,7316-1106-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305839,7316-1105.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173053d6,7316-1105.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305482,7316-1105.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c99173059b2,7316-1105-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c991730570a,7316-1104.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305c34,7316-1104.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1104,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b81,7316-1104.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1104,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f34334f0c9c99173056f9,7316-1102.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305664,7316-1102.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305654,7316-1102.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c99173058d2,7316-1102-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c9917305747,7316-1100.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305569,7316-1100.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305483,7316-1100.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c99173058b6,7316-1100-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34334f0c9c99173057d3,7316-1099.sv.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c99173054fb,7316-1099.passed.somatic.eff.vcf.gz,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f33fe4f0c9c9917305560,7316-1099.passed.somatic.eff.maf,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f34994f0c9c99173059c2,7316-1099-DNA-Tumor.realigned.bam_CNVs.p.value.txt,cavatica/cbttc-workspace,,,,,,,,,,,,,,,,,,,,,
+5a8f39184f0c9c9917305c55,7316-1076.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1076,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c38,7316-1076.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1076,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b46,7316-1073.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1073,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b67,7316-1073.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1073,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305cbb,7316-1068.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1068,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c14,7316-1068.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1068,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b73,7316-1062.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1062,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b75,7316-1062.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1062,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c3b,7316-1060.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1060,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305c3f,7316-1060.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1060,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b59,7316-1059.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1059,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b45,7316-1059.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1059,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305ab5,7316-1055.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1055,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305a6a,7316-1055.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1055,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305bfd,7316-1052.isoforms.results,cavatica/cbttc-workspace,,,,,,,7316-1052,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
+5a8f39184f0c9c9917305b65,7316-1052.genes.results,cavatica/cbttc-workspace,,,,,,,7316-1052,,,Illumina HiSeq,,0,,,,GRCh37,,,0,RNA-seq,sanger
